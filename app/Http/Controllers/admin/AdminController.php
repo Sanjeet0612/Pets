@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Session;
 class AdminController extends Controller
 {
     public function index(){
-        return view('admin.index');
+        return view('admin.indexx');
     }
     public function login(Request $request){
 
